@@ -1,2 +1,5 @@
 # Tugas2
 TUGAS 2 PBO AISYAH AMELIA ZARAH JUAITA G1A022075 KELAS A
+
+
+Pada program yang sudah dibuat, ini menerapkan tiga buah kelas objek yaitu yang pertama Mahasiswa, yang kedua ada Prodi, dan yang terakhir ada Universitas. Disini dapat menambahkan objek Mahasiswa, Prodi, dan juga Universitas. Lalu mengimplementasikannya pada metode yang telah dibuat untuk dikelola data Mahasiswa, Prodi, dan Universitas. Pada program juga memasukkan nama mahasiswa, prodi apa mahasiswa itu, dan berkuliah di manakah mahasiswa tersebut. Di program itu juga menambahkan nama – nama program studi yang ada di Universitas tersebut, menambahkan prodi apa mahasiswa tersebut, dan yang terakhir menambahkan berasal dari manakah mahasiswa tersebut berkuliah. Di program itu menampilkan enam orang nama mahasiswa dari berbagai prodi, yaitu prodi teknik informatika, mesin, elektro, sipil, arsitektur, dan juga system informasi, beserta nama mahasiswa nya. Setelah program itu dibuat dan diimplementasikan, lalu di run pada aplikasi yang telah digunakan tidak menghasilkan kata error, berarti program tersebut benar dan juga sempurna.
